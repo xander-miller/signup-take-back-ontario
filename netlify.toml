@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://signup.takebackontario.ca/*"
+to = "https://docs.google.com/forms/d/e/1FAIpQLSc81gpDidaxKx8Mciv4Dr3oo0DjrdpNlCfcvGjDZp3mAlpW0g/viewform"
+status = 301
+force = true
